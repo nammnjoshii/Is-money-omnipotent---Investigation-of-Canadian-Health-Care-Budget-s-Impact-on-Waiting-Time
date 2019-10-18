@@ -1,6 +1,7 @@
 #Title: "Is money omnipotent - Investigation of Canadian Health Care Budget’s Impact on Waiting Time"
-#Author: Nammn Joshii
-#Date: "October 06, 2019"
+
+##Author: Nammn Joshii
+###Date: "October 06, 2019"
 
 
 # Introduction 
